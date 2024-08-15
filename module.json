@@ -1,0 +1,50 @@
+{
+  "id": "herald-of-tiamat",
+  "title": "Herald of Tiamat",
+  "version": "1.0.0",
+  "url": "https://github.com/Apacolyps/Herald-of-Tiamat",
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Herald of Tiamat: A Descent into Avernus Adventure\nUnleash the fury of dragons and step into a world of ancient deities and infernal plots with \"Herald of Tiamat,\" a thrilling Dungeons &amp; Dragons adventure designed for 5th to 6th level characters. This adventure seamlessly integrates into the \"Baldur's Gate: Descent into Avernus\" campaign but can also serve as a standalone experience or be adapted for other campaigns involving the formidable Tiamat.\n\nAdventure Synopsis:\nWhen Elturel was dragged into the Nine Hells, it became a new battleground in the eternal Blood War. Amidst this chaos, the ancient enmity between the draconic deities Bahamut and Tiamat reignites. Tiamat, chained within Avernus, cannot tolerate the presence of a temple dedicated to her nemesis, Bahamut. As your heroes arrive in the devastated city of Elturel, they are drawn into this cosmic conflict.\n\nKey Features:\n• Dynamic Storyline: Navigate through the ruins of Elturel and face the wrath of Tiamat's followers.\n\n• Intense Encounters: Battle formidable foes, including drakes and half-dragons, in a series of gripping combat scenarios.\n\n• Rich Lore: Discover the deep history and ongoing struggle between Bahamut and Tiamat, enriched with detailed descriptions and thematic elements.\n\n• Intriguing Puzzles: Solve riddles and navigate a fortress filled with draconic motifs, unlocking secrets and treasures along the way.\n\n• Versatile Integration: Perfect for inclusion in \"Descent into Avernus,\" as a road encounter in \"Tyranny of Dragons,\" or as a standalone adventure.\n\nThis product includes:\n• 3 Combat encounters\n\n• 3 High-quality maps\n\n• 2 Original monsters\n\n• 3 New magic items, including one artifact.\n\n• 3 Original riddles",
+  "authors": [
+    {
+      "name": "Zrave",
+      "discord": "zrave",
+      "email": "shadowlabgames@gmail.com",
+      "flags": {}
+    },
+    {
+      "name": "Apacolyps",
+      "discord": "apacolyps",
+      "email": "shadowlabgames@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "herald-of-tiamat",
+      "label": "Herald of Tiamat",
+      "path": "packs/herald-of-tiamat",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
